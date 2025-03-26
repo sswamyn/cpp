@@ -5,6 +5,9 @@
 # Prerequisites
 *.d
 
+*.bin
+*.exe
+
 # Compiled Object files
 *.slo
 *.lo
